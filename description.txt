@@ -1,0 +1,7 @@
+This mod adds one item, called the Grave Mirror, that allows players to teleport to their last death location.
+The Grave Mirror is crafted at a workbench, in a graveyard biome, with a Magic Mirror or Ice Mirror.
+
+--- Changelog ---
+
+2.0.3:
+- Updated to 1.4.4

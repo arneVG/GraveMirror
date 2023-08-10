@@ -1,0 +1,10 @@
+Mods: {
+	GraveMirror: {
+		Items: {
+			GraveMirror: {
+				DisplayName: Grave Mirror
+				Tooltip: Gaze in the mirror to return to your last grave
+			}
+		}
+	}
+}
